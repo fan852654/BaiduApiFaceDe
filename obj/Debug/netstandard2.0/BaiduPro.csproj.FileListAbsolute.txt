@@ -1,0 +1,9 @@
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\bin\Debug\netstandard2.0\BaiduPro.deps.json
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\bin\Debug\netstandard2.0\BaiduPro.dll
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\obj\Debug\netstandard2.0\BaiduPro.csprojAssemblyReference.cache
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\obj\Debug\netstandard2.0\BaiduPro.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\obj\Debug\netstandard2.0\BaiduPro.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\obj\Debug\netstandard2.0\BaiduPro.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\bin\Debug\netstandard2.0\BaiduPro.pdb
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\obj\Debug\netstandard2.0\BaiduPro.dll
+C:\Users\ghost\OneDrive\c#\End\BaiduPro\obj\Debug\netstandard2.0\BaiduPro.pdb

@@ -1,0 +1,133 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "50f9e43762cc51d1cd8c916b9034758d419a058a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BaiduPro/1.0.0": {
+        "dependencies": {
+          "Baidu.AI": "3.4.0",
+          "BceSdkDotNet": "1.0.1",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "12.0.2",
+          "System.Drawing.Common": "4.5.1"
+        },
+        "runtime": {
+          "BaiduPro.dll": {}
+        }
+      },
+      "Baidu.AI/3.4.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AipSdk.dll": {
+            "assemblyVersion": "3.4.0.0",
+            "fileVersion": "3.4.0.0"
+          }
+        }
+      },
+      "BceSdkDotNet/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "log4net": "2.0.3"
+        },
+        "runtime": {
+          "lib/net35/BceSdkDotNet.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "log4net/2.0.3": {
+        "runtime": {
+          "lib/net40-full/log4net.dll": {
+            "assemblyVersion": "1.2.13.0",
+            "fileVersion": "1.2.13.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.1": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiduPro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Baidu.AI/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBJPijwDcXN1sVB2YxPwoAWg9RdsodNKIwi+ZknD5UgRbup9V+DBzY5ekXhLcOhwnTjrkULKWq/+23Lzoo3LcQ==",
+      "path": "baidu.ai/3.4.0",
+      "hashPath": "baidu.ai.3.4.0.nupkg.sha512"
+    },
+    "BceSdkDotNet/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-apO6yAMD4R8xMP5G5BssshFHwKq57gZEHDA8f9cv8VSmqrr7orvImOphBnx5fp0DWTXaMPJm8XQdOgIioDpzJg==",
+      "path": "bcesdkdotnet/1.0.1",
+      "hashPath": "bcesdkdotnet.1.0.1.nupkg.sha512"
+    },
+    "log4net/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tc/s3qqjL7Q+iV77ACG0UW+gYe/gKWT4BCPXfgV1aWVn2WlsRdkKt5SRZCxuIYFzl7HbaJs2VxpEYp80hYpGNA==",
+      "path": "log4net/2.0.3",
+      "hashPath": "log4net.2.0.3.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GiyeGi/v4xYDz1vCNFwFvhz9k1XddOG7VD3jxRqzRBCbTHji+s3HxxbxtoymuK4OadEpgotI8zQ5+GEEH9sUEQ==",
+      "path": "system.drawing.common/4.5.1",
+      "hashPath": "system.drawing.common.4.5.1.nupkg.sha512"
+    }
+  }
+}
